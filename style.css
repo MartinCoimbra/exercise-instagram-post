@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background: #000000;
+}
+.contedor{
+    width: 60%;
+    margin: 20px auto;
+    background: #ffffff;
+}
+
+/* HEADER */
+.izqui, .izqui2, .izquA{
+    float: left;
+}
+.izqui{
+    line-height: 30px;
+}
+.izqui,.der,.izquA, .derA{
+    font-size: 25px;
+}
+.izqui2{
+    margin-left: 10px;
+    width: 50%;
+}
+.der, .derA{
+    float: right;
+}
+.derA{
+    margin-right: 20px;
+}
+a{
+    color: #000000;
+}
+.padre{
+    padding: 10px;
+}
+img{
+    margin-top: 10px;
+}
+/* Acciones */
+.acciones{
+    width: 100%;
+    padding: 0px 10px;
+}
+.lplicke, .descrip{
+    font-size: 14px;
+}
+/* likes */
+.lplicke{
+    margin: 0px 10px 10px 10px;
+}
+
+article{
+    padding-bottom: 10px;
+}
+.descrip{
+    padding: 0px 10px;
+}
